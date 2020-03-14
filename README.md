@@ -1,5 +1,5 @@
 # Software ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-![](C:\Users\zen\Desktop\software\src\BoxOS.jpg)
+![](https://github.com/TIG-KI/software/blob/master/src/BoxOS.jpg)
 
 ## linux
 + [Jupyter Notebook](https://jupyter.org/)
